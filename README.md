@@ -40,7 +40,7 @@ Welcome to Mentalista, a simple number-guessing game created during the Alura co
 </html>
 ```
 
-###CSS
+### CSS
 
 ```css
 body {
@@ -89,7 +89,7 @@ body {
   }
 ```
 
-###Java Script
+### Java Script
 ```javascript
 var segredo = parseInt(Math.random() * 101);
 let tentativas = 3;
@@ -108,6 +108,6 @@ function advinha() {
 
 advinha();
 ```
-##Contributing
+## Contributing
 
 Contributions are welcome! If you find a bug, have a suggestion, or want to contribute in any way, please open an issue or create a pull request. Happy gaming!
