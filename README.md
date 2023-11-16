@@ -89,7 +89,7 @@ body {
   }
 ```
 
-### Java Script
+### JavaScript
 ```javascript
 var segredo = parseInt(Math.random() * 101);
 let tentativas = 3;
