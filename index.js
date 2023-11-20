@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (tentativas === 0) {
-                alert(`Você usou todas as tentativas o número correto é ${chute}.`);
+                alert(`Você usou todas as tentativas o número correto é ${segredo}.`);
             }
         }
     }
